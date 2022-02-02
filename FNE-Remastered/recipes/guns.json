@@ -1,0 +1,67 @@
+[
+    {
+    "type": "recipe",
+    "result": "huntingrifle_32",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ "gun", 3 ],
+    "difficulty": 8,
+    "time": "14 m",
+    "reversible": true,
+    "autolearn": true,
+	"book_learn": [ [ "recipe_guns", 2 ] ],
+    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
+    "components": [ [ [ "pipe", 1 ] ], [ [ "2x4", 1 ] ], [ [ "scrap", 8 ] ] ]
+  },
+  
+      {
+    "type": "recipe",
+    "result": "huntingrifle_38",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ "gun", 3 ],
+    "difficulty": 8,
+    "time": "14 m",
+    "reversible": true,
+    "autolearn": true,
+	"book_learn": [ [ "recipe_guns", 2 ] ],
+    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
+    "components": [ [ [ "pipe", 1 ] ], [ [ "2x4", 1 ] ], [ [ "scrap", 8 ] ] ]
+  },
+  
+      {
+    "type": "recipe",
+    "result": "huntingrifle_308",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ "gun", 3 ],
+    "difficulty": 8,
+    "time": "14 m",
+    "reversible": true,
+    "autolearn": true,
+	"book_learn": [ [ "recipe_guns", 2 ] ],
+    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
+    "components": [ [ [ "pipe", 1 ] ], [ [ "2x4", 1 ] ], [ [ "scrap", 8 ] ] ]
+  },
+  
+      {
+    "type": "recipe",
+    "result": "huntingrifle_50",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ "gun", 3 ],
+    "difficulty": 8,
+    "time": "14 m",
+    "reversible": true,
+    "autolearn": true,
+	"book_learn": [ [ "recipe_guns", 2 ] ],
+    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 } ],
+    "components": [ [ [ "pipe", 1 ] ], [ [ "2x4", 1 ] ], [ [ "scrap", 8 ] ] ]
+  }
+
+
+]

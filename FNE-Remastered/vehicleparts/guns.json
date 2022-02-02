@@ -1,0 +1,155 @@
+[
+  {
+    "id": "mounted_ak112",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted AK-112" },
+    "item": "ak112",
+    "color": "cyan",
+    "broken_color": "cyan",
+    "breaks_into": [ { "item": "scrap", "count": 24 }, { "item": "steel_chunk", "count": 9 }, { "item": "steel_lump", "count": 3 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "rifle", 1 ] ] }, "removal": { "skills": [ [ "mechanics", 1 ] ] } }
+  },
+  
+  {
+    "id": "mounted_carbine_assault",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted NVA AC-5" },
+    "item": "carbine_assault",
+    "color": "cyan",
+    "broken_color": "cyan",
+    "breaks_into": [ { "item": "scrap", "count": 24 }, { "item": "steel_chunk", "count": 9 }, { "item": "steel_lump", "count": 3 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "rifle", 1 ] ] }, "removal": { "skills": [ [ "mechanics", 1 ] ] } }
+  },
+  
+  
+  {
+    "id": "mounted_cz53",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted CZ53 Minigun" },
+    "item": "cz53",
+    "color": "green",
+    "broken_color": "green",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 6 ], [ "rifle", 3 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  },
+  
+  {
+    "id": "mounted_avenger",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted Avenger Minigun" },
+    "item": "avenger_minigun",
+    "color": "green",
+    "broken_color": "green",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 6 ], [ "rifle", 3 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  },
+  
+  {
+    "id": "mounted_5mm_gatling",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted 5mm gatling gun" },
+    "item": "5mm_gatling",
+    "color": "yellow",
+    "broken_color": "yellow",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "rifle", 2 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  },
+  
+  
+  
+  {
+    "id": "mounted_10mm_gatling",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted 10mm machine gun" },
+    "item": "10mm_gatling",
+    "color": "green",
+    "broken_color": "green",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 6 ], [ "rifle", 3 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  },
+  
+  
+  
+  {
+    "id": "mounted_hk_g11",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted H&K g11" },
+    "item": "hk_g11",
+    "color": "white",
+    "broken_color": "white",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "rifle", 1 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  },
+  
+  {
+    "id": "mounted_hk_g11e",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted H&K G11E" },
+    "item": "hk_g11e",
+    "color": "white",
+    "broken_color": "white",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 3 ], [ "rifle", 1 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  },
+  
+  {
+    "id": "mounted_vindicator_minigun_47mm",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted 4.7mm Vindicator Minigun" },
+    "item": "vindicator_minigun_47mm",
+    "color": "white",
+    "broken_color": "white",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 6 ], [ "rifle", 3 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  },
+  
+  
+  {
+    "id": "mounted_browning_portable",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted M2PA" },
+    "item": "m2browning_portable",
+    "color": "green",
+    "broken_color": "green",
+    "breaks_into": [ { "item": "scrap", "count": 80 }, { "item": "steel_chunk", "count": 48 }, { "item": "steel_lump", "count": 18 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 4 ], [ "rifle", 2 ] ] }, "removal": { "skills": [ [ "mechanics", 2 ] ] } }
+  },
+  
+  
+  {
+    "id": "mounted_vindicator_minigun_308",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted .308 Vindicator Minigun" },
+    "item": "vindicator_minigun_308",
+    "color": "white",
+    "broken_color": "white",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 6 ], [ "rifle", 3 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  },
+  
+  
+  {
+    "id": "mounted_hk_l30",
+    "copy-from": "turret",
+    "type": "vehicle_part",
+    "name": { "str": "mounted H&K L30 Gatling Laser" },
+    "item": "hk_l30",
+    "color": "white",
+    "broken_color": "white",
+    "breaks_into": [ { "item": "scrap", "count": 28 }, { "item": "steel_chunk", "count": 20 }, { "item": "steel_lump", "count": 12 } ],
+    "requirements": { "install": { "skills": [ [ "mechanics", 6 ], [ "electronics", 5 ], [ "rifle", 3 ] ] }, "removal": { "skills": [ [ "mechanics", 4 ] ] } }
+  }
+
+
+]
