@@ -354,34 +354,38 @@
     "id": "guns_survival",
     "//": "Guns typically carried by survivors, either improvised or thematically appropriate.",
     "items": [
-      { "item": "ak112", "prob": 5, "charges-min": 0, "charges-max": 24 },
+      { "item": "ak112", "prob": 5, "charges-min": 24, "charges-max": 24 },
 	  
-      { "item": "rangemaster_ruger", "prob": 10, "charges-min": 0, "charges-max": 10 },
-	  { "item": "rangemaster_stanag", "prob": 10, "charges-min": 0, "charges-max": 10 },
-	  { "item": "rifle_backwater_10mm", "prob": 5, "charges-min": 0, "charges-max": 10 },
+      { "item": "rangemaster_ruger", "prob": 10, "charges-min": 10, "charges-max": 10 },
+	  { "item": "rangemaster_stanag", "prob": 10, "charges-min": 10, "charges-max": 10 },
+	  { "item": "rifle_backwater_10mm", "prob": 5, "charges-min": 10, "charges-max": 10 },
 	  
-	  { "item": "rifle_survivalist", "prob": 10, "charges-min": 0, "charges-max": 10 },
+	  { "item": "rifle_survivalist", "prob": 10, "charges-min": 10, "charges-max": 10 },
 	  
-	  { "item": "huntingrifle_308", "prob": 75, "charges-min": 0, "charges-max": 5 },
+	  { "item": "huntingrifle_308", "prob": 75, "charges-min": 5, "charges-max": 5 },
 	  
-	  { "item": "huntingrifle_38", "prob": 10, "charges-min": 0, "charges-max": 5 },
-	  { "item": "huntingrifle_32", "prob": 75, "charges-min": 0, "charges-max": 5 },
-	  { "item": "huntingrifle_50", "prob": 10, "charges-min": 0, "charges-max": 5 },
+	  { "item": "huntingrifle_38", "prob": 10, "charges-min": 5, "charges-max": 5 },
+	  { "item": "huntingrifle_32", "prob": 75, "charges-min": 5, "charges-max": 5 },
+	  { "item": "huntingrifle_50", "prob": 10, "charges-min": 5, "charges-max": 5 },
 	  
-	  { "item": "widowmaker_full", "prob": 10, "charges-min": 0, "charges-max": 2 },
-	  { "item": "widowmaker_mini", "prob": 10, "charges-min": 0, "charges-max": 2 },
+	  { "item": "widowmaker_full", "prob": 10, "charges-min": 2, "charges-max": 2 },
+	  { "item": "widowmaker_mini", "prob": 10, "charges-min": 2, "charges-max": 2 },
 	  
-	  { "item": "combatrifle_38", "prob": 10, "charges-min": 0, "charges-max": 30 },
-	  { "item": "combatrifle_45", "prob": 10, "charges-min": 0, "charges-max": 20 },
-	  { "item": "combatrifle_308", "prob": 10, "charges-min": 0, "charges-max": 20 },
-	  { "item": "combatrifle_223", "prob": 10, "charges-min": 0, "charges-max": 30 },
+	  { "item": "combatrifle_38", "prob": 10, "charges-min": 30, "charges-max": 30 },
+	  { "item": "combatrifle_45", "prob": 10, "charges-min": 20, "charges-max": 20 },
+	  { "item": "combatrifle_308", "prob": 10, "charges-min": 20, "charges-max": 20 },
+	  { "item": "combatrifle_223", "prob": 10, "charges-min": 30, "charges-max": 30 },
 	  
-	  { "item": "radrifle_38", "prob": 1, "charges-min": 0, "charges-max": 30 },
-	  { "item": "radrifle_45", "prob": 1, "charges-min": 0, "charges-max": 20 },
-	  { "item": "radrifle_308", "prob": 1, "charges-min": 0, "charges-max": 20 },
-	  { "item": "radrifle_223", "prob": 1, "charges-min": 0, "charges-max": 30 },
+	  { "item": "pipe_pistol_38", "prob": 20, "charges-min": 12, "charges-max": 12 },
+	  { "item": "pipe_pistol_38_auto", "prob": 10, "charges-min": 12, "charges-max": 12 },
+	  { "item": "pipe_smg_38", "prob": 10, "charges-min": 12, "charges-max": 12 },
 	  
-	  { "item": "5mm_gatling", "prob": 1, "charges-min": 0, "charges-max": 500 }
+	  { "item": "radrifle_38", "prob": 1, "charges-min": 30, "charges-max": 30 },
+	  { "item": "radrifle_45", "prob": 1, "charges-min": 20, "charges-max": 20 },
+	  { "item": "radrifle_308", "prob": 1, "charges-min": 20, "charges-max": 20 },
+	  { "item": "radrifle_223", "prob": 1, "charges-min": 30, "charges-max": 30 },
+	  
+	  { "item": "5mm_gatling", "prob": 1, "charges-min": 500, "charges-max": 500 }
     ]
   },
   

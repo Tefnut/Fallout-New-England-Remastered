@@ -28,6 +28,16 @@
     "items": [
       [ "recipe_ultracite", 10 ]
     ]
+  },
+  
+  {
+    "type": "item_group",
+    "id": "book_gunmags",
+    "//": "Magazines about guns",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "mag_guns_fallout", "prob": 50 }
+    ]
   }
 
 
