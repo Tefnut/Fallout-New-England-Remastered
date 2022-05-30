@@ -10,7 +10,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -27,7 +27,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -44,7 +44,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -61,7 +61,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -78,7 +78,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -95,7 +95,7 @@
     "count": 10,
 	"material": [ "paper", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -112,7 +112,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -129,7 +129,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -146,7 +146,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -163,7 +163,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -180,7 +180,7 @@
     "count": 10,
 	"material": [ "paper", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -197,7 +197,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -214,7 +214,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -231,7 +231,7 @@
     "count": 10,
 	"material": [ "steel", "powder", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -248,7 +248,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -265,7 +265,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -282,7 +282,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -299,7 +299,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -316,7 +316,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -333,7 +333,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -350,7 +350,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -367,7 +367,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -384,7 +384,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -401,7 +401,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -418,7 +418,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -435,7 +435,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -452,7 +452,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -469,7 +469,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -486,7 +486,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -503,7 +503,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -520,7 +520,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -537,7 +537,7 @@
     "count": 10,
 	"material": [ "steel", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -554,7 +554,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -571,7 +571,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -588,7 +588,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -605,7 +605,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -622,7 +622,7 @@
     "count": 10,
 	"material": [ "paper", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -639,7 +639,7 @@
     "count": 10,
 	"material": [ "plastic", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -656,7 +656,7 @@
     "count": 10,
 	"material": [ "plastic", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -673,7 +673,7 @@
     "count": 10,
 	"material": [ "steel", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -690,7 +690,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -707,7 +707,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -724,7 +724,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -741,7 +741,7 @@
     "count": 10,
 	"material": [ "brass", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -758,7 +758,7 @@
     "count": 10,
 	"material": [ "paper", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -775,7 +775,7 @@
     "count": 10,
 	"material": [ "plastic", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -792,7 +792,7 @@
     "count": 10,
 	"material": [ "plastic", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -809,7 +809,7 @@
     "count": 10,
 	"material": [ "plastic", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
@@ -826,7 +826,7 @@
     "count": 10,
 	"material": [ "plastic", "powder", "lead", "ultracite" ],
 	"damage": { "damage_type": "heat", "amount": 5, "armor_penetration": 10 },
-    "relative": { "damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
+    "relative": { "damage": { "damage_type": "bullet", "amount": 5, "armor_penetration": 5 }, "dispersion": -15 },
     "proportional": { "recoil": 1.5 },
 	"extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }

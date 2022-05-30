@@ -36,7 +36,7 @@
     "ammo_type": "5mm",
     "casing": "5mm_casing",
     "range": 36,
-    "damage": { "damage_type": "stab", "amount": 40, "armor_penetration": 2 },
+    "damage": { "damage_type": "bullet", "amount": 40, "armor_penetration": 2 },
     "dispersion": 30,
     "recoil": 1000,
     "effects": [ "COOKOFF", "NEVER_MISFIRES" ]
@@ -51,7 +51,7 @@
     "price": 145,
     "price_postapoc": 450,
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
-    "relative": { "damage": { "damage_type": "stab", "amount": -2, "armor_penetration": 6 } }
+    "relative": { "damage": { "damage_type": "bullet", "amount": -2, "armor_penetration": 6 } }
   },
 
   {
@@ -63,7 +63,7 @@
     "price": 145,
     "price_postapoc": 450,
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
-    "relative": { "damage": { "damage_type": "stab", "amount": -6, "armor_penetration": 12 } }
+    "relative": { "damage": { "damage_type": "bullet", "amount": -6, "armor_penetration": 12 } }
   },
   
     {
@@ -82,7 +82,7 @@
     "name": { "str": "5mm JHP, black powder" },
     "proportional": {
       "price": 0.3,
-      "damage": { "damage_type": "stab", "amount": 0.57, "armor_penetration": 0.5 },
+      "damage": { "damage_type": "bullet", "amount": 0.57, "armor_penetration": 0.5 },
       "recoil": 0.57,
       "dispersion": 1.2
     },
@@ -97,7 +97,7 @@
     "name": { "str": "5mm FMJ, black powder" },
     "proportional": {
       "price": 0.3,
-      "damage": { "damage_type": "stab", "amount": 0.57, "armor_penetration": 0.5 },
+      "damage": { "damage_type": "bullet", "amount": 0.57, "armor_penetration": 0.5 },
       "recoil": 0.57,
       "dispersion": 1.2
     },
@@ -112,7 +112,7 @@
     "name": { "str": "5mm AP, black powder" },
     "proportional": {
       "price": 0.3,
-      "damage": { "damage_type": "stab", "amount": 0.57, "armor_penetration": 0.5 },
+      "damage": { "damage_type": "bullet", "amount": 0.57, "armor_penetration": 0.5 },
       "recoil": 0.57,
       "dispersion": 1.2
     },
@@ -127,7 +127,7 @@
     "name": { "str": "5mm Tracer, black powder" },
     "proportional": {
       "price": 0.3,
-      "damage": { "damage_type": "stab", "amount": 0.57, "armor_penetration": 0.5 },
+      "damage": { "damage_type": "bullet", "amount": 0.57, "armor_penetration": 0.5 },
       "recoil": 0.57,
       "dispersion": 1.2
     },
@@ -141,7 +141,7 @@
     "copy-from": "5mm_jhp",
     "type": "AMMO",
     "name": { "str": "5mm JHP, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -152,7 +152,7 @@
     "copy-from": "5mm_fmj",
     "type": "AMMO",
     "name": { "str": "5mm FMJ, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -163,7 +163,7 @@
     "copy-from": "5mm_ap",
     "type": "AMMO",
     "name": { "str": "5mm AP, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -173,7 +173,7 @@
     "copy-from": "5mm_incendiary",
     "type": "AMMO",
     "name": { "str": "5mm Tracer, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   }

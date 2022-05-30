@@ -40,7 +40,7 @@
     "melee_skill": 4,
     "melee_dice": 2,
     "melee_dice_sides": 3,
-    "melee_cut": 0,
+    "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
     "vision_night": 3,
     "harvest": "scorched",
     "special_attacks": [ { "type": "bite", "cooldown": 5 }, [ "GRAB", 7 ], [ "scratch", 20 ] ],
@@ -89,7 +89,13 @@
     "melee_skill": 4,
     "melee_dice": 2,
     "melee_dice_sides": 3,
-    "melee_cut": 0,
+    "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
+	
+	"armor_bash": 6,
+    "armor_cut": 6,
+    "armor_bullet": 5,
+    "armor_stab": 6,
+	
     "vision_night": 3,
     "harvest": "scorched",
     "special_attacks": [ { "type": "bite", "cooldown": 5 }, [ "GRAB", 7 ], [ "scratch", 20 ] ],
@@ -139,10 +145,11 @@
     "melee_skill": 4,
     "melee_dice": 2,
     "melee_dice_sides": 3,
-    "melee_cut": 0,
+    "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
 	
 	"armor_bash": 10,
     "armor_cut": 16,
+    "armor_bullet": 13,
 	
     "vision_night": 3,
     "harvest": "scorched",
@@ -192,7 +199,14 @@
     "melee_skill": 4,
     "melee_dice": 2,
     "melee_dice_sides": 3,
-    "melee_cut": 0,
+    "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
+	
+	"armor_bash": 6,
+    "armor_cut": 6,
+    "armor_bullet": 5,
+    "armor_acid": 3,
+    "armor_fire": 10,
+	
     "vision_night": 3,
     "harvest": "scorched",
     "special_attacks": [ { "type": "bite", "cooldown": 5 }, [ "GRAB", 7 ], [ "scratch", 20 ] ],
@@ -241,7 +255,12 @@
     "melee_skill": 4,
     "melee_dice": 2,
     "melee_dice_sides": 3,
-    "melee_cut": 0,
+    "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
+	
+	"armor_bash": 5,
+    "armor_cut": 4,
+    "armor_bullet": 3,
+	
     "vision_night": 3,
     "harvest": "scorched",
     "special_attacks": [ { "type": "bite", "cooldown": 5 }, [ "GRAB", 7 ], [ "scratch", 20 ] ],
@@ -271,7 +290,7 @@
     "id": "mon_scorched_soldier",
     "type": "MONSTER",
     "name": { "str": "scorched soldier" },
-    "description": "This scorched appears to have been a pre-war soldier. Their gun seems to be jammed, and they appear unable to fix it.",
+    "description": "This scorched appears to have been a pre-war soldier. Their gun seems to be jammed, and they appear unable to fix it, but they wear military combat armor.",
 	
 	
     "default_faction": "scorched",
@@ -292,10 +311,11 @@
     "melee_skill": 4,
     "melee_dice": 2,
     "melee_dice_sides": 3,
-    "melee_cut": 0,
+    "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
 	
 	"armor_bash": 12,
     "armor_cut": 25,
+    "armor_bullet": 35,
 	
     "vision_night": 3,
     "harvest": "scorched",
@@ -346,10 +366,12 @@
     "melee_skill": 6,
     "melee_dice": 4,
     "melee_dice_sides": 6,
-    "melee_cut": 0,
+    "melee_damage": [ { "damage_type": "cut", "amount": 1 } ],
     "dodge": 1,
-    "armor_bash": 7,
+    
+	"armor_bash": 7,
     "armor_cut": 7,
+    "armor_bullet": 6,
     "armor_acid": 4,
 	
     "vision_night": 3,
@@ -358,7 +380,7 @@
     "death_drops": "mon_zombie_survivor_death_drops",
     "death_function": [ "NORMAL" ],
 	
-	"//": "This is where the upgrade path once was; re-add later. Scorched will have evolution split between becoming more dangerous, and potentially being petrified into those statues you see througout appalachia.",
+	"//": "This is where the upgrade path once was; re-add later. Scorched will have evolution split between becoming more dangerous, and potentially being petrified into those statues you see througout appalachia. Those statues will be immobile, flimsy monsters that don't attack.",
 	
 	
     "flags": [

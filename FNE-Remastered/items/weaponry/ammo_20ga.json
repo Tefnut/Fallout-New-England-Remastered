@@ -43,7 +43,7 @@
     "ammo_type": "20ga",
     "casing": "20ga_hull",
     "range": 12,
-    "damage": { "damage_type": "stab", "amount": 40 },
+    "damage": { "damage_type": "bullet", "amount": 40 },
     "recoil": 1750,
     "loudness": 120,
     "effects": [ "COOKOFF", "SHOT" ]
@@ -58,7 +58,7 @@
     "price": 100,
     "price_postapoc": 400,
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
-    "proportional": { "damage": { "damage_type": "stab", "amount": 0.3 }, "recoil": 0.6, "loudness": 0.8 },
+    "proportional": { "damage": { "damage_type": "bullet", "amount": 0.3 }, "recoil": 0.6, "loudness": 0.8 },
     "extend": { "effects": [ "NOGIB" ] }
   },
   
@@ -68,7 +68,7 @@
     "type": "AMMO",
     "name": { "str": "20 gauge, scrap loaded" },
     "description": "A shotgun shell filled with whatever was lying around.  They are more damaging than birdshot, but fairly inaccurate.",
-    "proportional": { "price": 0.4, "damage": { "damage_type": "stab", "amount": 0.6 }, "dispersion": 1.2 },
+    "proportional": { "price": 0.4, "damage": { "damage_type": "bullet", "amount": 0.6 }, "dispersion": 1.2 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -83,7 +83,7 @@
     "price_postapoc": 400,
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "dispersion": 100,
-    "relative": { "range": 12, "damage": { "damage_type": "stab", "armor_penetration": 6 } },
+    "relative": { "range": 12, "damage": { "damage_type": "bullet", "armor_penetration": 6 } },
     "proportional": { "recoil": 1.4 },
     "delete": { "effects": [ "SHOT" ] }
   },
@@ -98,7 +98,7 @@
     "price_postapoc": 400,
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "dispersion": 100,
-    "relative": { "range": 12, "damage": { "damage_type": "stab", "armor_penetration": 6 } },
+    "relative": { "range": 12, "damage": { "damage_type": "bullet", "armor_penetration": 6 } },
     "proportional": { "recoil": 1.4 }
   },
   
@@ -116,7 +116,7 @@
     "copy-from": "20ga_bird",
     "type": "AMMO",
     "name": { "str": "20 gauge, birdshot, black powder" },
-    "proportional": { "price": 0.6, "damage": { "damage_type": "stab", "amount": 0.8 }, "dispersion": 1.2 },
+    "proportional": { "price": 0.6, "damage": { "damage_type": "bullet", "amount": 0.8 }, "dispersion": 1.2 },
     "extend": { "effects": [ "RECYCLED", "MUZZLE_SMOKE", "BLACKPOWDER" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -126,7 +126,7 @@
     "copy-from": "20ga_scrap",
     "type": "AMMO",
     "name": { "str": "20 gauge, black powder, scrap loaded" },
-    "proportional": { "price": 0.6, "damage": { "damage_type": "stab", "amount": 0.8 } },
+    "proportional": { "price": 0.6, "damage": { "damage_type": "bullet", "amount": 0.8 } },
     "extend": { "effects": [ "RECYCLED", "MUZZLE_SMOKE" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -136,7 +136,7 @@
     "copy-from": "20ga_slug",
     "type": "AMMO",
     "name": { "str": "20 gauge, slug, black powder" },
-    "proportional": { "price": 0.6, "damage": { "damage_type": "stab", "amount": 0.8 }, "dispersion": 1.2 },
+    "proportional": { "price": 0.6, "damage": { "damage_type": "bullet", "amount": 0.8 }, "dispersion": 1.2 },
     "extend": { "effects": [ "RECYCLED", "MUZZLE_SMOKE", "BLACKPOWDER" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -155,7 +155,7 @@
     "copy-from": "20ga_shot",
     "type": "AMMO",
     "name": { "str": "20 gauge shot, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -165,7 +165,7 @@
     "copy-from": "20ga_bird",
     "type": "AMMO",
     "name": { "str": "20 gauge, birdshot, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -175,7 +175,7 @@
     "copy-from": "20ga_slug",
     "type": "AMMO",
     "name": { "str": "20 gauge, slug, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -185,7 +185,7 @@
     "copy-from": "20ga_buck",
     "type": "AMMO",
     "name": { "str": "20 gauge, 3/0 buck, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -208,7 +208,7 @@
     "ammo_type": "20ga",
     "casing": "20ga_magnum_casing",
     "range": 16,
-    "damage": { "damage_type": "stab", "amount": 80 },
+    "damage": { "damage_type": "bullet", "amount": 80 },
     "recoil": 2500,
     "loudness": 160,
     "effects": [ "COOKOFF", "SHOT" ]
@@ -223,7 +223,7 @@
     "price": 100,
     "price_postapoc": 400,
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
-    "proportional": { "damage": { "damage_type": "stab", "amount": 0.3 }, "recoil": 0.6, "loudness": 0.8 },
+    "proportional": { "damage": { "damage_type": "bullet", "amount": 0.3 }, "recoil": 0.6, "loudness": 0.8 },
     "extend": { "effects": [ "NOGIB" ] }
   },
   
@@ -233,7 +233,7 @@
     "type": "AMMO",
     "name": { "str": "20 gauge, scrap lmagnum" },
     "description": "A 20 gauge magnum shell filled with whatever was lying around.  They are more damaging than birdshot, but fairly inaccurate.",
-    "proportional": { "price": 0.4, "damage": { "damage_type": "stab", "amount": 0.6 }, "dispersion": 1.2 },
+    "proportional": { "price": 0.4, "damage": { "damage_type": "bullet", "amount": 0.6 }, "dispersion": 1.2 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -248,7 +248,7 @@
     "price_postapoc": 400,
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "dispersion": 100,
-    "relative": { "range": 12, "damage": { "damage_type": "stab", "armor_penetration": 6 } },
+    "relative": { "range": 12, "damage": { "damage_type": "bullet", "armor_penetration": 6 } },
     "proportional": { "recoil": 1.4 },
     "delete": { "effects": [ "SHOT" ] }
   },
@@ -263,7 +263,7 @@
     "price_postapoc": 400,
     "flags": [ "IRREPLACEABLE_CONSUMABLE" ],
     "dispersion": 100,
-    "relative": { "range": 12, "damage": { "damage_type": "stab", "armor_penetration": 6 } },
+    "relative": { "range": 12, "damage": { "damage_type": "bullet", "armor_penetration": 6 } },
     "proportional": { "recoil": 1.4 }
   },
   
@@ -272,7 +272,7 @@
     "copy-from": "20ga_shot_magnum",
     "type": "AMMO",
     "name": { "str": "20 gauge, magnum shot, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -282,7 +282,7 @@
     "copy-from": "20ga_bird_magnum",
     "type": "AMMO",
     "name": { "str": "20 gauge, magnum birdshot, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -292,7 +292,7 @@
     "copy-from": "20ga_slug_magnum",
     "type": "AMMO",
     "name": { "str": "20 gauge, magnum slug, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   },
@@ -302,7 +302,7 @@
     "copy-from": "20ga_buck_magnum",
     "type": "AMMO",
     "name": { "str": "20 gauge, 3/0 magnum buck, reloaded" },
-    "proportional": { "price": 0.7, "damage": { "damage_type": "stab", "amount": 0.9 }, "dispersion": 1.1 },
+    "proportional": { "price": 0.7, "damage": { "damage_type": "bullet", "amount": 0.9 }, "dispersion": 1.1 },
     "extend": { "effects": [ "RECYCLED" ] },
     "delete": { "effects": [ "NEVER_MISFIRES" ], "flags": [ "IRREPLACEABLE_CONSUMABLE" ] }
   }
